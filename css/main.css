@@ -184,18 +184,23 @@ body {
 
 /* green header */
 header {
-  background: #6ab47b;
-  border-color: #599a68
+  background-image: url(../img/paper_texture.jpg);
+  background-size: 800px;
 }
 
 /* nav background on mobile devices */
 nav {
-  background: #599a68
+  background: #fff;
 }
 
 /* logo text */
 h1, h2 {
-  color: #fff;
+  /*Pink*/
+  color: #d13076;
+}
+
+h2 {
+  font-weight: 500;
 }
 
 /* links */
@@ -205,9 +210,31 @@ a {
 
 /* nav link */
 nav a, nav a:visited {
-  color: #fff;
+  /*Old BLUE*/
+  /*color: #30b8d1;*/
+  /*color: #43c0d6;*/
+  /*Light blue*/
+  /*color: #56d5f9;*/
+  /*Two Best Blue Below*/
+  /*color: #09c3f6;*/
+  color: #08afdd;
+  /*Purple*/
+  /*color: #6467ae;*/
 }
 /* selected nav link */
 nav a.selected, nav a:hover {
-  color: #32673f;
+  /*PINK*/
+  color: #d13076;
+}
+
+.logo_lightpink {
+  color: #df8fb4;
+}
+
+.logo_purple {
+  color: #6467ae;
+}
+
+.logo_pink {
+  color: #d13076;
 }

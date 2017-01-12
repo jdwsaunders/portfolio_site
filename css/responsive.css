@@ -68,11 +68,14 @@
     margin-bottom: 20px;
     margin-left: 2px;
     letter-spacing: 0.25em;
+    font-weight: 500;
   }
 
   header {
-    border-bottom: 5px solid #599a68;
+    border-bottom: 4.5px solid #eaeaea;
+    background-image: url(../img/paper_texture.jpg);
     margin-bottom: 60px;
+    background-size: 1200px;
   }
 
 
