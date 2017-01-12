@@ -216,7 +216,9 @@ nav a, nav a:visited {
   /*color: #56d5f9;*/
   /*Two Best Blue Below*/
   /*color: #09c3f6;*/
-  color: #08afdd;
+  /*color: #08afdd;*/
+  /*new blue*/
+  color: #59aad9;
 }
 /* selected nav link */
 nav a.selected, nav a:hover {
@@ -229,7 +231,9 @@ nav a.selected, nav a:hover {
 }
 
 .logo_purple {
-  color: #6467ae;
+  /*color: #6467ae;*/
+  color: #44a0d5;
+  /*color: #2f95d0;*/
 }
 
 .logo_pink {
