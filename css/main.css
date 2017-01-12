@@ -196,6 +196,7 @@ nav {
 h1, h2 {
   /*Pink*/
   color: #d13076;
+  /*color: #D45A83;*/
 }
 
 h2 {
@@ -209,31 +210,29 @@ a {
 
 /* nav link */
 nav a, nav a:visited {
-  /*Old BLUE*/
+  /*Old Blue*/
   /*color: #30b8d1;*/
   /*color: #43c0d6;*/
-  /*Light blue*/
+  /*Light Blue*/
   /*color: #56d5f9;*/
-  /*Two Best Blue Below*/
+  /*Green Blue*/
   /*color: #09c3f6;*/
   /*color: #08afdd;*/
-  /*new blue*/
+  /*New Blue*/
   color: #59aad9;
 }
 /* selected nav link */
 nav a.selected, nav a:hover {
-  /*PINK*/
-  color: #d13076;
+  /* Nav Pink*/
+  color: #D45A83;
 }
 
 .logo_lightpink {
   color: #df8fb4;
 }
 
-.logo_purple {
-  /*color: #6467ae;*/
+.logo_blue {
   color: #44a0d5;
-  /*color: #2f95d0;*/
 }
 
 .logo_pink {
