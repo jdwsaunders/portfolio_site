@@ -55,9 +55,6 @@ h2 {
   font-weight: normal;
 }
 
-
-
-
 /***********************************
 NAVIGATION
 ***********************************/
@@ -212,12 +209,6 @@ a {
 nav a, nav a:visited {
   /*Old Blue*/
   /*color: #30b8d1;*/
-  /*color: #43c0d6;*/
-  /*Light Blue*/
-  /*color: #56d5f9;*/
-  /*Green Blue*/
-  /*color: #09c3f6;*/
-  /*color: #08afdd;*/
   /*New Blue*/
   color: #59aad9;
 }
