@@ -14,17 +14,42 @@
     float: right;
   }
 
+  #primary_about {
+    width: 5%;
+    float: left;
+
+  }
+
+  #secondary_about {
+    width: 75%;
+    float: right;
+  }
+
+  #welcome_pink {
+    width: 30%;
+    float: left;
+  }
+
+
+  #welcome_logo {
+    width: 50%;
+    float: right;
+
+  }
+
   /***********************************
-  PAGE: PORTFOLIO
+  PAGE: WELCOME
   ***********************************/
 
   #gallery li {
-  width: 28.33333%;
+  /*width: 28.33333%;*/
+  width: 40%;
   }
 
   #gallery li:nth-child(4n) {
   clear: left;
   }
+
 
   /***********************************
   PAGE: ABOUT
@@ -34,6 +59,7 @@
     float: left;
     margin: 0 5% 80px 0;
   }
+
 
 }
 
@@ -68,6 +94,14 @@
     margin-bottom: 20px;
     margin-left: 2px;
     letter-spacing: 0.25em;
+    font-weight: 500;
+  }
+
+  h3 {
+    font-size: 1.5em;
+    margin-bottom: 20px;
+    margin-left: 2px;
+    /*letter-spacing: 0.25em;*/
     font-weight: 500;
   }
 
